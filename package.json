@@ -11,7 +11,7 @@
     "delay",
     "once"
   ],
-  "main": "./dist/index.js",
+  "main": "./index.js",
   "types": "./index.d.ts",
   "repository": "jameslnewell/redux-when",
   "devDependencies": {
